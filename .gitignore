@@ -1,0 +1,4 @@
+# Default ignored files
+conda/
+config/
+__pycache__/

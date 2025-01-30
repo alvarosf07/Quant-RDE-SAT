@@ -159,7 +159,7 @@ Install ``QRDE-SAT`` package to your project virtual environment. To do this sim
 - **Purpose**: Evaluate trading strategies using historical data.
 - **Key Capabilities**:
   - Event-driven backtesting framework for realistic simulations.
-  - **Backtesting Engine** that performs all main backtesting operations. The engine is an abstraction built on top of other existing backtesting libraries such as [Backtesting.py](https://kernc.github.io/backtesting.py/), [Backtrader](https://www.backtrader.com/)...)
+  - **Backtesting Engine** that performs all main backtesting operations. The engine is an abstraction built on top of other existing backtesting libraries such as [Backtesting.py](https://kernc.github.io/backtesting.py/), [Backtrader](https://www.backtrader.com/)...
   - **Backtesting analysis** module that provides: 
     - Metrics for performance analysis (e.g., Sharpe Ratio, Maximum Drawdown).
     - Visual analysis charts
